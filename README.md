@@ -2,6 +2,7 @@
 Poster with references list
 
 D. Melati, D.-X. Xu, Y. Grinberg, M. Al-Digeil, “Inverse design of photonic integrated devices: Optimization and machine learning”. Tutorial, APL Photonics 1 October 2025.
+
 D.-X. Xu, Y. Grinberg, S. Janz, S. Dedyulin, J. Zhang, M. Vachon, S. Wang, J. Weber, P. Cheben, J. Schmid, N. Israel, Q. Wang, L. Ramunno, D. Gostimirovic, A. Li, and O. Liboiron-Ladouceur, "Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization," OFC 2025, paper Th1F.1.
 G. Zhang, D.-X. Xu, Y. Grinberg, and O. Liboiron-Ladouceur, "Topological inverse design of nanophotonic devices with energy constraint," Opt. Exp. 29, 2021.
 G. Zhang, D.-X. Xu, Y. Grinberg, and O. Liboiron-Ladouceur, "Experimental demonstration of robust nanophotonic devices optimized by topological inverse design with energy constraint," Photon. Res. 10, 2022.
