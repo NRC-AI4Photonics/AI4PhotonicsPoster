@@ -17,4 +17,6 @@
 * [Y. Grinberg, D. Gostimirovic, G. Zhang, M. M. Masnad, O. Liboiron-Ladouceur, D.-X. Xu, "Inverse design of robust photonic components." Integrated Optics: Devices, Materials, and Technologies XXVII. Vol. 12424. SPIE, 2023.](https://doi.org/10.1117/12.2650529)
 * [M. M. Masnad, N. Salsabil, D.-X. Xu, O. Liboiron-Ladouceur, Y. Grinberg, "Computation cost reduction in 3D shape optimization of nanophotonic components." Journal of Optics, 26.5 (2024), 055702.](https://www.doi.org/10.1088/2040-8986/ad3a76)
 * [N. S. Israel, D. Blankespoor, D.-X. Xu, Y. Grinberg and L. Ramunno, "Machine Learning-Enabled Inverse Design of Subwavelength Waveguide Gratings using Environment-Aware Effective Medium Approximations," Photonics North, Montreal, Canada, pp. 1-2, 2023.](https://doi.org/10.1109/PN58661.2023.10222959)
-* A. Masominia, D. Melati, D.-X. Xu, Y. Grinberg, M. Al-Digeil, “Retrieving the Design Parameters of Silicon Photonic Devices from Optical Responses Using an Inverse Neural Network Model”. Silicon Photonics Conference, Ottawa, April 2026.
+* A. Masominia, D. Melati, D.-X. Xu, Y. Grinberg, M. Al-Digeil, "Retrieving the Design Parameters of Silicon Photonic Devices from Optical Responses Using an Inverse Neural Network Model". Silicon Photonics Conference, Ottawa, April 2026.
+* R. Azimi, Y. Grinberg, D.-X. Xu, O. Liboiron-Ladouceur, "Gen-Fab: A Variation-Aware Generative Model for Predicting 
+Fabrication Variations in Nanophotonic Devices," Struc. and Mult. Opt. (2026), *to appear*.
