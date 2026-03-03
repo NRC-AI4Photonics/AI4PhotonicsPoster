@@ -1,4 +1,7 @@
-### AI4PhotonicsPoster - References
+### AI4Photonics Poster - PDF 
+This poster is presented as part of the HTSN end-of-program event on March 5th, 2026.
+
+### AI4Photonics Poster - Full References
 
 * [D. Melati, D.-X. Xu, Y. Grinberg, M. Al-Digeil, “Inverse design of photonic integrated devices: Optimization and machine learning”. Tutorial, APL Photonics 1 October 2025.](https://doi.org/10.1063/5.0283179)
 * [D.-X. Xu, Y. Grinberg, S. Janz, S. Dedyulin, J. Zhang, M. Vachon, S. Wang, J. Weber, P. Cheben, J. Schmid, N. Israel, Q. Wang, L. Ramunno, D. Gostimirovic, A. Li, and O. Liboiron-Ladouceur, "Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization," in Optical Fiber Communication Conference (OFC) 2025, Technical Digest Series (Optica Publishing Group, 2025), paper Th1F.1.](https://doi.org/10.1364/OFC.2025.Th1F.1)
